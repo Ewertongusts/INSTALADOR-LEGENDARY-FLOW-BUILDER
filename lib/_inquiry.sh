@@ -201,7 +201,7 @@ software_dominio() {
 inquiry_options() {
   
   print_banner
-  printf "${WHITE} 💻 Bem vindo(a) ao Gerenciador MultiPremium ZION CRM Selecione abaixo a proxima ação!${GRAY_LIGHT}"
+  printf "${WHITE} 💻 Bem vindo(a) ao Gerenciador MultiPremium Legendary Flow Selecione abaixo a proxima ação!${GRAY_LIGHT}"
   printf "\n\n"
   printf "   [0] Instalar Sistema\n"
   printf "   [1] Atualizar Sistema\n"
